@@ -16,6 +16,11 @@ mysql -u root -p
 
 Create new database
 ```
-mysql> create database <databaseName>
+mysql> create database <databaseName>;
+```
+
+Use database
+```
+mysql> use <databaseName>;
 ```
 
