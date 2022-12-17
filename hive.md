@@ -26,3 +26,14 @@ Use database
 > use <databaseName>;
 ```
 
+Describe table
+```
+> describe <tableName>;
+```
+
+Load Data
+```
+> LOAD DATA LOCAL INPATH 'file' OVERWRITE INTO TABLE <table>;
+```
+
+
